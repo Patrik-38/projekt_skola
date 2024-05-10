@@ -13,5 +13,6 @@ WEB - objeví se naskenované nebo ručně zadané položky (ty se budou zadáva
     - Zároveň budou jednotlivé položky automaticky porovnávány s dřívější cenou a budou zobrazovat nejnižší ceny díky spolupráci s https://www.heureka.cz/
     
 ![obrazek](https://github.com/Patrik-38/projekt_skola/assets/169029663/b20503f6-5cff-421e-b02f-b8628fdc5f19)
-
+Takto bude vypadat řazení účtenek/produktů
+Zvolíte účtenku/produkt a poté seřazení
 
