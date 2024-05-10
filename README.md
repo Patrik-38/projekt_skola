@@ -5,9 +5,9 @@ Při zapnutí personalizace se bude automaticky doporučovat zboží, buďto ve 
 Zpracoval Schmidt Patrik
 
 Esp32 - V beta verzi se kód (číslo) účtenky zadá přes klávesnici, v plné verzi přes mobilní aplikaci
-      - Můžete zadat, zda chcete přidat více účtenek
+      - Můžete zadat, zda chcete přidat více účtenek <br>
 
-WEB - objeví se naskenované nebo ručně zadané položky (ty se budou zadávat s názvem a cenou)
+WEB - objeví se naskenované nebo ručně zadané položky (ty se budou zadávat s názvem a cenou)<br>
     - půjdou zobrazit celé účtenky, typy produktů nebo jen samotné položky
     - bude možno zvolit seřazení: podle ceny, hmotnosti balení, podle data nákupu
     - Zároveň budou jednotlivé položky automaticky porovnávány s dřívější cenou a budou zobrazovat nejnižší ceny díky spolupráci s https://www.heureka.cz/
