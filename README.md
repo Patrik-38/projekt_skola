@@ -10,4 +10,8 @@ Esp32 - V beta verzi se kód (číslo) účtenky zadá přes klávesnici, v pln�
 WEB - objeví se naskenované nebo ručně zadané položky (ty se budou zadávat s názvem a cenou)
     - půjdou zobrazit celé účtenky, typy produktů nebo jen samotné položky
     - bude možno zvolit seřazení: podle ceny, hmotnosti balení, podle data nákupu
-    - Zároveň budou jednotlivé položky automaticky porovnávány s 
+    - Zároveň budou jednotlivé položky automaticky porovnávány s dřívější cenou a budou zobrazovat nejnižší ceny díky spolupráci s https://www.heureka.cz/
+    
+![obrazek](https://github.com/Patrik-38/projekt_skola/assets/169029663/b20503f6-5cff-421e-b02f-b8628fdc5f19)
+
+
