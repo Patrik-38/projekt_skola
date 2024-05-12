@@ -12,7 +12,7 @@ WEB
       - Základní zobrazení bude jednoduché a bude ukazovat pouze účtenky s datem a cenou <br>
       - V podrobnějším zobrazení se objeví naskenované nebo ručně zadané položky (ty se budou zadávat s názvem a cenou)<br>
       - půjdou zobrazit celé účtenky, typy produktů nebo jen samotné položky <br>
-      - bude možno zvolit seřazení: podle ceny, hmotnosti balení, podle data nákupu <br>
+      - bude možno zvolit seřazení: podle ceny, podle data nákupu <br>
       - Zároveň budou jednotlivé položky automaticky porovnávány s dřívější cenou a budou zobrazovat nejnižší ceny díky spolupráci s <b><i>https://www.heureka.cz/</i></b><br>
     
 ![obrazek](https://github.com/Patrik-38/projekt_skola/assets/169029663/b20503f6-5cff-421e-b02f-b8628fdc5f19) <br>
