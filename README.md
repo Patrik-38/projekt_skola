@@ -8,8 +8,9 @@ Esp32 - V beta verzi se kód (číslo) účtenky zadá přes klávesnici, v pln�
       - Můžete zadat, zda chcete přidat více účtenek <br>
 
 WEB 
-      - Základní zobrazení bude jednoduché a bude pouze ukazovat účtenky s datem a cenou <br>
-      - objeví se naskenované nebo ručně zadané položky (ty se budou zadávat s názvem a cenou)<br>
+      - Nahrání účtenky je jednoduché. Pouze se naskenuje čárkový kód na spodku účtenky a o zbytek se stará naše aplikace <br>
+      - Základní zobrazení bude jednoduché a bude ukazovat pouze účtenky s datem a cenou <br>
+      - V podrobnějším zobrazení se objeví naskenované nebo ručně zadané položky (ty se budou zadávat s názvem a cenou)<br>
       - půjdou zobrazit celé účtenky, typy produktů nebo jen samotné položky <br>
       - bude možno zvolit seřazení: podle ceny, hmotnosti balení, podle data nákupu <br>
       - Zároveň budou jednotlivé položky automaticky porovnávány s dřívější cenou a budou zobrazovat nejnižší ceny díky spolupráci s <b><i>https://www.heureka.cz/</i></b><br>
